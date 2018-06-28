@@ -1,0 +1,14 @@
+{
+  "id": "franz-recipe-userlike",
+  "name": "Userlike",
+  "version": "1.0.0",
+  "description": "Userlike plugin for Franz messaging app",
+  "main": "index.js",
+  "author": "Christoph Stäblein <info@pixelkrieg.net>",
+  "license": "MIT",
+  "repository": "https://github.com/pixelkrieg/franz-recipe-userlike",
+  "config": {
+    "serviceURL": "https://www.userlike.com/en/",
+    "hasNotificationSound": true
+  }
+}
